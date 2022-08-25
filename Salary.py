@@ -1,0 +1,5 @@
+y=input("What is a worker working hour?")
+y=int(y)
+x=input("Type the salary of a hour")
+x=int(x)
+print("The workers' salary of a day is", y*x)
