@@ -1,9 +1,9 @@
 first = input("write the first side")
-first = int(first)
+first =float(first)
 second = input ("write the second side")
-second = int(second)
+second = float(second)
 third = input("write the third side")
-third = int(third)
+third = float(third)
 perimeter = first + second + third
-perimeter =int(perimeter)
+perimeter =float(perimeter)
 print("the triangle perimeter is", perimeter)
